@@ -51,7 +51,7 @@ ASUS_FX505_I7-9750H电脑BIOS设置
 
 ​              1、TransMac   右键  =>  2修改  =>   右键 =>3 选镜像   =>  漫长等待写完
 
-​              2、 balenaEthcher  (https://www.balena.io/etcher/)，教程百度
+​              2、 balenaEthcher ,自行度程 (https://www.balena.io/etcher/)
 
 ​     3、DiskGenius 
 ​               1、建立一个>80 给mac存放系统（120G）
