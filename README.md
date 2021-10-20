@@ -9,7 +9,7 @@
 ​		GPU：Nvidia GeForce GTX 1650 (无法驱动，已屏蔽)  
 ​		主板：FX505GT_FX95GT (HM370芯片组)  
 ​		声卡：Realtek HDA 235  
-​		网卡：Intel Wireless-AC 9462 (实际是9560)  
+​		网卡：Intel Wireless-AC 
 
 
 
