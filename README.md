@@ -6,7 +6,7 @@
 
 ​		CPU：Intel i7-9750H (12) @ 2.60GHz  
 ​		GPU：Intel UHD Graphics 630  
-​		GPU：Nvidia GeForce GTX 1650 (无法驱动，已屏蔽)  
+​		GPU：Nvidia GeForce GTX 1650 无驱动  
 ​		主板：FX505GT_FX95GT (HM370芯片组)  
 ​		声卡：Realtek HDA 235  
 ​		网卡：Intel Wireless-AC 
